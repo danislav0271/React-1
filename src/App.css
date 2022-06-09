@@ -21,7 +21,6 @@ header h1, img{
   background-color: #FEFCE0;
   border: 1px solid black;
   overflow: auto;
-  display: none;
 }
 .factory-section h2{
   display: inline-block;
@@ -247,6 +246,9 @@ textarea#phrase{
 .right-leg{
   top: 63%;
   right: 42%;
+}
+.body{
+  background-color: rgb(111, 206, 238);
 }
 .male .body{
   width: 20%;
